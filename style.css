@@ -1,3 +1,7 @@
+*{
+    background-color: black;
+}
 body{
-    background-repeat: black;
+    text-align: center;
+    color: aliceblue;
 }
